@@ -34,7 +34,7 @@
  		<repository>
   			<id>PranodaydNexusRepo</id>
   			<name>PranodaydNexusRepo</name>
-  			<url>http://192.168.43.10:8081/repository/NSDLTraining/</url>
+  			<url>http://localhost:8081/repository/pipeline/</url>
  		</repository>
 
 	</distributionManagement>
