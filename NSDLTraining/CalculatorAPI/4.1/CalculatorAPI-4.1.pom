@@ -6,7 +6,7 @@
 
   <groupId>NSDLTraining</groupId>
   <artifactId>CalculatorAPI</artifactId>
-  <version>4.1</version>
+  <version>4.2</version>
 
   <name>CalculatorAPI</name>
   <!-- FIXME change it to the project's website -->
